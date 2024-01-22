@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "wtrbttl\\dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
